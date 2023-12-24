@@ -1,0 +1,51 @@
+nav {
+  display: flex;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+  background-color: orange;
+}
+a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 20px;
+  font-family: "Libre Franklin", sans-serif;
+}
+#lien {
+  margin-left: auto;
+}
+a:hover {
+  color: greenyellow;
+}
+#barnone {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: green;
+}
+
+
+section {
+  display: flex;
+  justify-content: center;
+}
+article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ font-size: 20px;
+  width: 700px;
+  height:400px;
+
+}
+h1 {
+  text-align: center;
+  font-size: larger;
+  font-family: "Libre Franklin", sans-serif;
+}
+div {
+  text-align: center;
+}
